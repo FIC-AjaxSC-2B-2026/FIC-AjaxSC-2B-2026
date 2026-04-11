@@ -1,9 +1,19 @@
 body {
- background-color:rgb(253, 212, 229) ;
+ background-color:rgb(255, 240, 246) ;
 
 }
  h1 {
     font-size: large;
+    color: palevioletred;
+    text-align: center;
+ }
+ h2 {
+    font-size: 40px;
+    color: palevioletred;
+    text-align: center;
+ }
+ h3 {
+    font-size: 30px;
     color: palevioletred;
     text-align: center;
  }
